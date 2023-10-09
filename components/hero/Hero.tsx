@@ -13,7 +13,7 @@ function Hero({
   title = "Conta Digital PJ gratuita",
   subtitle = "feita por quem entende você e sua empresa.",
   text =
-  "Ágil, humana e sem tarifas abusivas. Abra sua conta Cora direto pelo app, livre de burocracia: simples, rápido e fácil de usar",
+    "Ágil, humana e sem tarifas abusivas. Abra sua conta Cora direto pelo app, livre de burocracia: simples, rápido e fácil de usar",
   buttonText = "Abra sua conta PJ grátis",
   img,
   imgAlt = "Cartao da Cora",

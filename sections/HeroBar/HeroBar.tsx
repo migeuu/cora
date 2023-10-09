@@ -1,1 +1,1 @@
-export { default } from "$store/components/herobar/HeroBar.tsx"
+export { default } from "$store/components/herobar/HeroBar.tsx";
